@@ -1,0 +1,3 @@
+class MusicToggleEvent {}
+
+class QuoteLoadedEvent {}
